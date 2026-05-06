@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/photography-vocabulary/viewing-angles/","dg-note-properties":{}}
 ---
 
+
 - Front (0°)
 - Front three-quarter
 - Pure side profile (90°)
