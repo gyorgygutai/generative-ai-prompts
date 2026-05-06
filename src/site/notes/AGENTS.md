@@ -4,7 +4,7 @@
 
 ## Folder Structure
 
-- **_templates_**: templates for notes.
+- **_templates**: templates for notes.
 
 ---
 
