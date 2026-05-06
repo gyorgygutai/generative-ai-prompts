@@ -19,7 +19,7 @@ action Templater: Insert Send to Draw Things
 ```prompt
 keep the face, identity unchanged from input image.
 
-the exact person from the input image in the same pose, angle, clothing from the reference image, face fit naturally and adapted for consistent lighting + skin tone across body and face.
+the exact person from the input image in the same pose, angle, clothing from the reference image, face fit naturally on body.
 ```
 
 ### Attachments
