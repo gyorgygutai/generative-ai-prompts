@@ -4,12 +4,7 @@
 
 ## Folder Structure
 
-- **Photography**: archive of photo prompts
-- **Video**: archive of video prompts
-- **GENERATED**: AI-generated prompts. Reference images in `assets` subfolder.
-- **EXAMPLES**: confirmed best examples — read before writing any prompt.
 - **TEMPLATES**: templates for notes.
-- **KNOWLEDGE**: photography techniques, expression references, and model-specific confirmed behavior.
 
 ---
 
