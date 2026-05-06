@@ -10,10 +10,10 @@
 
 ## Agent Index
 
-- **Janitor**: [[.prompts/janitor.md\|.prompts/janitor.md]]
+- **Janitor**: [[.prompts/janitor.prompt.md\|.prompts/janitor.prompt.md]]
 - **Image Analyzer**: [[.prompts/image-analyzer.prompt.md\|.prompts/image-analyzer.prompt.md]]
 - **Prompt Engineer**: [[.prompts/prompt-engineer.prompt.md\|.prompts/prompt-engineer.prompt.md]]
-- **Prompt Dispatcher**: [[prompts/prompt-dispatcher.prompt.md\|prompts/prompt-dispatcher.prompt.md]]
+- **Prompt Dispatcher**: [[.prompts/prompt-dispatcher.prompt.md\|.prompts/prompt-dispatcher.prompt.md]]
 
 ## Agent Routing
 
