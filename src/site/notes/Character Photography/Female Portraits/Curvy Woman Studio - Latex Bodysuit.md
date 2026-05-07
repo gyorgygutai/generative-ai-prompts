@@ -4,17 +4,9 @@
 
 ## Prompt
 
-```button
-name Copy Prompt
-type command
-action Templater: Insert Copy Prompt
-```
 
-```button
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-```
+
+
 
 ```prompt
 Photorealistic studio photograph, fine details. Curvy woman standing upright facing camera in white curtain studio, wearing black latex cutout bodysuit, left hand touching lip.

@@ -4,17 +4,9 @@
 
 ## Prompt
 
-```button
-name Copy Prompt
-type command
-action Templater: Insert Copy Prompt
-```
 
-```button
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-```
+
+
 
 ```prompt
 A photorealistic candid-style portrait photograph of the woman from reference image seated on a white leather sofa in a clean, minimal interior.

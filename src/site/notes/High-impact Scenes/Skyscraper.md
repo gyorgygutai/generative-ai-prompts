@@ -4,17 +4,9 @@
 
 ## Prompt
 
-```button
-name Copy Prompt
-type command
-action Templater: Insert Copy Prompt
-```
 
-```button
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-```
+
+
 
 ```prompt
 keep the identity from reference image to create an ultra-realistic cinematic aerial shot of the male action hero from reference image climbing the glass exterior of the world's tallest skyscraper in Budapest.

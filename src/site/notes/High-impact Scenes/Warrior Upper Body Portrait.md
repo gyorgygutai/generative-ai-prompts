@@ -4,17 +4,9 @@
 
 ## Prompt
 
-```button
-name Copy Prompt
-type command
-action Templater: Insert Copy Prompt
-```
 
-```button
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-```
+
+
 
 ```prompt
 Identity Preservation: Use the original face from the reference image. Fully preserve facial features, proportions, and expression; photorealistic, no alterations.

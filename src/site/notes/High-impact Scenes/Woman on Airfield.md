@@ -4,17 +4,9 @@
 
 ## Prompt
 
-```button
-name Copy Prompt
-type command
-action Templater: Insert Copy Prompt
-```
 
-```button
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-```
+
+
 
 ```prompt
 a photorealistic vintage-inspired editorial image set on an airfield in bright natural daylight, with a military motorcycle in the foreground and a restrained aircraft presence in the distance.

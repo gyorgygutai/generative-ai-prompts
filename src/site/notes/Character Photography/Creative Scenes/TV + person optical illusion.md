@@ -4,17 +4,9 @@
 
 ## Prompt
 
-```button
-name Copy Prompt
-type command
-action Templater: Insert Copy Prompt
-```
 
-```button
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-```
+
+
 
 ```prompt
 Preserve the exact scene inside the television screen, transform only the woman in the image using a photorealistic optical illusion: she appears to pop out dramatically of the 16:9 television screen, appearing to be closer to the viewer than she really is, while the rest of the scene remains completely the same size and unchanged - same TV, same viewing angle, same environment.

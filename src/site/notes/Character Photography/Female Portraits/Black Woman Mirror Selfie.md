@@ -4,17 +4,9 @@
 
 ## Prompt
 
-```button
-name Copy Prompt
-type command
-action Templater: Insert Copy Prompt
-```
 
-```button
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-```
+
+
 
 ```prompt
 A stunning, high-quality mirror selfie of a beautiful 22-year-old Black woman with long, straight dark hair is captured indoors. She is holding a white iPhone 15 Pro in her left hand, taking a picture of her reflection while gazing confidently into the lens with a subtle, alluring expression. Her right arm rests naturally by her side. She possesses an incredibly voluptuous, exaggerated hourglass physique, showcasing a very narrow, toned midriff that flares dramatically into wide, heavy hips and thick, curvy thighs. Her deep, rich bronze skin glistens heavily with a thick coat of body oil, reflecting the light across her entire torso and legs. She is wearing a micro-sized, black string bikini; the tiny triangle top is worn upside-down and tied tightly, struggling to contain her extremely large, heavy natural breasts, revealing significant underboob. The matching black string bikini bottoms are pulled high up on her hips.

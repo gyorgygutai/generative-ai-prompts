@@ -4,17 +4,9 @@
 
 ## Prompt
 
-```button
-name Copy Prompt
-type command
-action Templater: Insert Copy Prompt
-```
 
-```button
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-```
+
+
 
 ```prompt
 a cinematic editorial photograph of a woman seated on the roof of a partially submerged vintage silver-gray sedan in a calm forest lake. The car should feel heavy, settled, and believable in the water, with the lakeline reaching just below the window line. Its mass should read clearly through the way the body sits low in the water, with gentle ripples moving outward from the metal and soft broken reflections across the roof, doors, and surrounding surface. The vehicle must never appear to float weightlessly.

@@ -4,17 +4,9 @@
 
 ## Prompt
 
-```button
-name Copy Prompt
-type command
-action Templater: Insert Copy Prompt
-```
 
-```button
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-```
+
+
 
 ```prompt
 Subject and Pose: Single woman, East Asian or mixed Asian complexion with warm undertone and tan, standing upright facing camera with slight lean back, head tilted down looking at phone screen, left arm raised holding phone below face, right hand at waist touching waistband with thumb hooked. Weight slightly on left leg. Dark brown to black hair, straight, long extending past shoulders with center part. Warm tan skin, smooth texture, healthy glow. Silver hoop earrings visible.

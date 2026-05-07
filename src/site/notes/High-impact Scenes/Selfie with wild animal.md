@@ -4,17 +4,9 @@
 
 ## Prompt
 
-```button
-name Copy Prompt
-type command
-action Templater: Insert Copy Prompt
-```
 
-```button
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-```
+
+
 
 ```prompt
 A photorealistic, casual iPhone snapshot-style selfie featuring you and a {WILD_ANIMAL} posing together in their natural wild habitat. You are smiling joyfully with a natural expression, holding the phone for the selfie and looking directly at the camera, wearing your reference clothing.

@@ -4,17 +4,9 @@
 
 ## Prompt
 
-```button
-name Copy Prompt
-type command
-action Templater: Insert Copy Prompt
-```
 
-```button
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-```
+
+
 
 ```prompt
 Ultra-realistic 8K wide-angle portrait of a female in her mid-20s. She has long voluminous blonde hair with caramel highlights styled in a sky-high ponytail with soft. Her grey-olive eyes catch the golden light vividly. Elegant facial structure, slim body, plump chest, and refined feminine proportions.

@@ -4,17 +4,9 @@
 
 ## Prompt
 
-```button
-name Copy Prompt
-type command
-action Templater: Insert Copy Prompt
-```
 
-```button
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-```
+
+
 
 ```prompt
 Hyper-realistic optical illusion photograph in 3:4 aspect ratio. Render the person from Picture 1 significantly larger than the smartphone screen, so they emerge dynamically from it. Their head and upper body extend fully out of the phone — breaking through the top, left, and right edges of the screen — while their lower body remains visible inside the display.
