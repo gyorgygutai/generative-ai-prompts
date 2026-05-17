@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/prompting-vocabulary/photo-manipulation/recolor/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/prompting-vocabulary/photo-manipulation/recolor/","dg-note-properties":{"blueprint":"[[Prompt Note.blueprint]]"}}
 ---
 
+
 ## Prompt
+
+
 
 
 
@@ -14,4 +17,4 @@ Recolor the entire image to natural indoor lighting: soft warm daylight from a n
 Remove all uniform blue avatar-style glow. Restore realistic skin tones, fabric colors, and surface textures as they would appear in a real home or office. No stylized lighting, no color casts, no flat illumination.
 ```
 
-### Attachments
+
