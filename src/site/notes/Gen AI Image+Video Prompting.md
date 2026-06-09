@@ -14,5 +14,6 @@ This vault is a structured library for generative AI art prompt engineering, wit
 > - Z-Image-Turbo
 > - Nano Banana 2 / Pro
 
-![](https://youtube.com/shorts/VEGwImqtV1U)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/tuXfub8vx1A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/VEGwImqtV1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/93ggOrOAwYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
