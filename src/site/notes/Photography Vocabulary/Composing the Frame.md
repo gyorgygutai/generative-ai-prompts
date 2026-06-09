@@ -3,7 +3,6 @@
 ---
 
 
-
 Compositional techniques for arranging visual elements and controlling focus within the image.
 
 - `rule of thirds` — dividing frame into ninths for balanced composition

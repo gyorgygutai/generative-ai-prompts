@@ -4,13 +4,6 @@
 
 ## Prompt
 
-
-name Send to Draw Things
-type command
-action Templater: Insert Send to Draw Things
-
-
-
-
-
 high resolution input image
+
+---

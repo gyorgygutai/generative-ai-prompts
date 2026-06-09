@@ -4,8 +4,7 @@
 
 ## Prompt
 
-
-hyper-photorealistic styly with ultra-high quality, fine intricate details. Front-facing portrait, showing complete hairstyle with full headroom, a curvy, fit, gorgeous exotic woman with voluminous and healthy  hair, beautiful face. Her thick, athletic, perfect hourglass figure visible from chest height, at golden hour, hands grabbing pool edge. Shot from ground level, outside the pool edge, looking slightly upward.
+hyper-photorealistic style with ultra-high quality, fine intricate details. Front-facing portrait, showing complete hairstyle with full headroom, a curvy, fit, gorgeous exotic woman with voluminous and healthy  hair, beautiful face. Her thick, athletic, perfect hourglass figure visible from chest height, at golden hour, hands grabbing pool edge. Shot from ground level, outside the pool edge, looking slightly upward.
 
 Pool edge with water spills in front of woman must be visible in frame.
 
