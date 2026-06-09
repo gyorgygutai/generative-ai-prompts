@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-photography/infinity-pool-front-portrait/","dg-note-properties":{"dt-model":"flux_2_klein_9b_q8p.ckpt","dt-steps":4,"dt-cfg":1,"dt-sampler":16,"dt-width":768,"dt-height":1024,"dt-generated-images":["dt_1778805133690.png"],"blueprint":"[[Prompt Note.blueprint]]","blueprint_version":1.6}}
+{"dg-publish":true,"permalink":"/character-photography/infinity-pool-front-portrait/","dg-note-properties":{"dt-model":"flux_2_klein_9b_q8p.ckpt","dt-steps":4,"dt-cfg":1,"dt-sampler":16,"dt-width":768,"dt-height":1024,"dt-generated-images":["dt_1780986489684.png","dt_1780986469813.png","dt_1780986444261.png","dt_1780985829120.png","dt_1778805133690.png"],"blueprint":"[[Prompt Note.blueprint]]","blueprint_version":1.6}}
 ---
 
 ## Prompt
